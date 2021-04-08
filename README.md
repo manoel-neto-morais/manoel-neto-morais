@@ -3,7 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/manoel-neto-morais)](https://github.com/manoel-neto-morais)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manoel-adiodato-de-morais-neto/)](https://www.linkedin.com/in/manoel-adiodato-de-morais-neto/)
 
-A lover of codes and technologies. 
+I'm a lover of codes and technologies. 
 <br>💬 Ask me about **JavaScript, ES6, HTML5, CSS3, Bootstrap, React.js, Node.js**
 
 📫 How to reach me: manoel.neto.morais@gmail.com
